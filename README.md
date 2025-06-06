@@ -74,8 +74,7 @@ Proje ödev gereksinimleri doğrultusunda hazırlanan detaylı dokümantasyon ve
 
 * **Proje Makalesi:** Projenin teknik yaklaşımlarını, tasarım kararlarını ve implementasyon detaylarını açıklayan makalemize [buradan](./docs/makale.md) ulaşabilirsiniz.
 * **Final Raporu:** Projenin genel değerlendirmesini, süreç detaylarını ve sonuçlarını içeren final raporumuza [buradan](./docs/final_raporu.md) ulaşabilirsiniz.
-* **Demo Videosu:** Uygulamanın gerçek zamanlı çalışmasını, özelliklerini ve etkileşimini gösteren video için:
-    * [YOUTUBE_VIDEO_LINKI]
+
 
 ## 📝 Çalışma Takvimi (Ara Rapor Özeti)
 
