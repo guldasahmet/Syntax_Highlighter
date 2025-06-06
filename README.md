@@ -1,6 +1,9 @@
 #  Gerçek Zamanlı Sözdizimi Vurgulayıcı
 
 [![YouTube Demo Video](https://img.youtube.com/vi/9qZDD1aRdTo/0.jpg)](https://www.youtube.com/watch?v=9qZDD1aRdTo) 
+
+
+
 **Yukarıdaki görsel, projenin YouTube demo videosuna bağlantı vermektedir. Videoyu izlemek için tıklayınız.**
 
 ## 🚀 Proje Genel Bakışı
